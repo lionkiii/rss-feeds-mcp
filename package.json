@@ -1,0 +1,50 @@
+{
+  "name": "rss-feeds-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for fetching, filtering, and searching RSS blog feeds",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "rss-feeds-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist/",
+    "feeds.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "rss",
+    "feeds",
+    "blog",
+    "content-marketing"
+  ],
+  "license": "MIT",
+  "author": "aashish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aashish/rss-mcp-server"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.2",
+    "rss-parser": "^3.13.0",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.6",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

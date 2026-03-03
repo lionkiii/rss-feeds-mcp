@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "seo",
+    "content",
+    "social",
+    "email",
+    "analytics",
+    "crm",
+    "news"
+  ],
+  "feeds": [
+    {
+      "name": "salesforce",
+      "url": "https://www.salesforce.com/blog/feed/",
+      "category": "crm"
+    },
+    {
+      "name": "timesofindia",
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "news"
+    },
+    {
+      "name": "hubspot",
+      "url": "https://blog.hubspot.com/rss",
+      "category": "content"
+    }
+  ]
+}
