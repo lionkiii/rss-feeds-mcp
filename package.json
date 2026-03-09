@@ -1,6 +1,6 @@
 {
   "name": "rss-feeds-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for fetching, filtering, and searching RSS blog feeds",
   "main": "dist/index.js",
   "type": "module",
