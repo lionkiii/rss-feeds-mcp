@@ -7,6 +7,8 @@ A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that le
 
 > **Zero configuration.** Install and start reading RSS feeds immediately. No API keys, no authentication.
 
+[![rss-feeds-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/rss-feeds-mcp/badges/card.svg)](https://glama.ai/mcp/servers/lionkiii/rss-feeds-mcp)
+
 ## What Can You Do?
 
 Ask Claude questions like:
