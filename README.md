@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/rss-feeds-mcp)](https://www.npmjs.com/package/rss-feeds-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![rss-feeds-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/rss-feeds-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lionkiii/rss-feeds-mcp)
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that lets AI assistants like **Claude Desktop**, **Cursor**, **Windsurf**, and any MCP client fetch, filter, and search RSS feeds. Monitor blogs, track industry news, and research content — all through natural language.
 
